@@ -1,0 +1,50 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: #2a5d5a;
+}
+.title {
+  color: rgb(255, 255, 255);
+  font-family: "Inter";
+  font-size: 64px;
+  font-weight: 700;
+  line-height: 77px;
+  letter-spacing: 0%;
+  text-align: justify;
+  text-align: center;
+}
+.back {
+  margin: 0 auto;
+  text-align: center;
+  background: #311313;
+  width: 636px;
+  height: 116px;
+  margin-top: 22px;
+  margin-bottom: 55px;
+  padding-top: 22px;
+  padding-bottom: 55px;
+}
+.parent {
+  width: 1000px;
+  height: 638px;
+  background-color: black;
+  border: 10px solid red;
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+}
+.box1{
+
+    color: white;
+    background-color: aquamarine;
+    
+}
+
+.box2{
+
+    color: white;
+    background-color: aquamarine;
+}
